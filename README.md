@@ -1,10 +1,3 @@
-<!--START_SECTION:waka-->
-```text
-Python    3 hrs 12 mins   ███████████████████████▓░   94.51 % 
-Other     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-```
-<!--END_SECTION:waka-->
-
 ### Olá 👋, Visitante
 #### me conheça um pouco mais...
 ![banner](https://github.com/paulop2/paulop2/blob/master/banner-readme.png)
@@ -22,3 +15,9 @@ Curso o 3º semestre de Engenharia Elétrica na Unicamp, fazendo a transição p
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=paulop2)  
 
+<!--START_SECTION:waka-->
+```text
+Python    3 hrs 12 mins   ███████████████████████▓░   94.51 % 
+Other     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+```
+<!--END_SECTION:waka-->
