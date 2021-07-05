@@ -17,7 +17,9 @@ Curso o 3º semestre de Engenharia Elétrica na Unicamp, fazendo a transição p
 
 <!--START_SECTION:waka-->
 ```text
-Python    3 hrs 12 mins   ███████████████████████▓░   94.51 % 
-Other     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Week: 28 June, 2021 - 04 July, 2021
+
+Python    3 hrs 12 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.51 % 
+Other     11 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.43 % 
 ```
 <!--END_SECTION:waka-->
