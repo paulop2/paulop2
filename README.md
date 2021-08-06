@@ -17,6 +17,8 @@ Curso o 3º semestre de Engenharia Elétrica na Unicamp, fazendo a transição p
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 July, 2021 - 05 August, 2021
+
+
 ```
 <!--END_SECTION:waka-->
