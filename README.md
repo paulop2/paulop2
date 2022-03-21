@@ -4,7 +4,7 @@
 
 Curso o 3º semestre de Engenharia Elétrica na Unicamp, fazendo a transição para a área de desenvolvimento, estudando no bootcamp Ignite React da Rocketseat. Também sou formado em eletroeletrônica pelo Colégio Técnico do Cotuca e gosto de jogar Path of Exile.
 
-- 🌱 Eu estou aprendendo: React.js | Next.js | Three.js | Node.js | JavaScript | TypeScript | HTML | CSS | Python
+- 🌱 Eu estou aprendendo: React Native | React.js | Next.js | Node.js | JavaScript | TypeScript | HTML | CSS
 
 - 🛠 página em construção, sugestões são sempre bem vindas 💪 . 
 
