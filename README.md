@@ -20,7 +20,7 @@ In my free time, I enjoy reading fantasy and fiction novels (Shadow Slave is my 
 - ⚙️ Back-end: Node.js, Express, GraphQL, Hasura, RESTful APIs, AWS 
 Lambda, Firebase Cloud Messaging
 
-- 📄 Databases: PostgreSQL, 
+- 📄 Databases: PostgreSQL, Redis
 
 - 🔧 Tools & Technologies: Git, GitHub Actions, AWS (ECS, RDS, Lambda), Docker, CI/CD, Bitrise
 
