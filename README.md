@@ -1,34 +1,36 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Paulo 👋</h1>
+<p align="center"><b>Software Engineer · AI agents, internal tools & full-stack products</b><br>Campinas, Brazil 🇧🇷</p>
 
-## Paulo Vitor Souza - Software Developer
+<p align="center">
+  <a href="https://pvsouza.com"><img src="https://img.shields.io/badge/pvsouza.com-1f3864?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/paulop2-vs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:paulo225vitor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### About me
+### 💻 About me
 
-I'm a passionate software developer with a focus on web and mobile development. With over 2 years of experience, I have a strong background in JavaScript, TypeScript, and SQL, and I enjoy working with technologies like React, React Native, Redux, Jest, Detox, Apollo GraphQL, Node.js, Express, GraphQL, Hasura, and AWS Lambda.  
+- 🧠 &nbsp; 4+ years shipping AI-powered products, internal tools and workflow automations in SaaS (legaltech & govtech)
+- 🤖 &nbsp; Built production multi-agent LLM systems, AI evaluation suites and LLM observability; most of my day-to-day is spent with Claude Code
+- 📈 &nbsp; Shipped work that raised conversion by 20%, cut third-party costs by 85% and made apps 70%+ faster
+- 🏢 &nbsp; Previously at **Methodical** (GovPilot, Company Sage) and **Caster LLC**
+- 🎓 &nbsp; Studying Computer Science at **UNIVESP**, after Electrical Engineering at **UNICAMP**
+- 🔭 &nbsp; Currently building [`harness`](https://github.com/paulop2/harness), an autonomous dev harness (delivery queue + goal loop) for coding agents
+- 📫 &nbsp; **Open to new opportunities**, so feel free to reach out!
+- 📚 &nbsp; Off the keyboard: fantasy novels and ARPGs like Path of Exile
 
-I'm experienced in building and deploying applications using AWS services like ECS, RDS, and Lambda, and I'm familiar with Docker, CI/CD pipelines, and tools like Git and GitHub Actions.  I'm always eager to learn new technologies and tackle new challenges.
+### ⚛️ Tech stack
 
-In my free time, I enjoy reading fantasy and fiction novels (Shadow Slave is my favorite at the moment), and I love playing action RPGs like Path of Exile.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,react,nextjs,nestjs,nodejs,angular,graphql,postgres,mongodb,redis,prisma,aws,docker,linux,git,githubactions,vercel&perline=10" alt="Tech stack" />
+</p>
 
-## 🛠 Tech Stack
+- **AI:** Claude Code, Claude SDK, OpenAI SDK, MCP, AWS Bedrock, LLM agents, evals (Promptfoo), Agent Skills
+- **Automation & data:** n8n, Salesforce, Snowflake, webhooks, event-driven workflows, SQL Server
+- **Observability:** Datadog, Sentry
 
+### 📊 GitHub stats
 
-- 💻 Languages: JavaScript, TypeScript, SQL
-
-- 🌐 Front-end: React, React Native, Redux, Jest, Detox, Apollo GraphQL
-
-- ⚙️ Back-end: Node.js, Express, GraphQL, Hasura, RESTful APIs, AWS 
-Lambda, Firebase Cloud Messaging
-
-- 📄 Databases: PostgreSQL, Redis
-
-- 🔧 Tools & Technologies: Git, GitHub Actions, AWS (ECS, RDS, Lambda), Docker, CI/CD, Bitrise
-
-
-## Contact
-
-Email: <paulo225vitor@gmail.com>  
-
-GitHub: [https://github.com/paulop2](https://github.com/paulop2)  
-
-Website: [pvsdev.vercel.app](https://pvsdev.vercel.app)
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paulop2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulop2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+</p>
