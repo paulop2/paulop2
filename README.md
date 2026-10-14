@@ -14,7 +14,6 @@
 - 📈 &nbsp; Shipped work that raised conversion by 20%, cut third-party costs by 85% and made apps 70%+ faster
 - 🏢 &nbsp; Previously at **Methodical** (GovPilot, Company Sage) and **Caster LLC**
 - 🎓 &nbsp; Studying Computer Science at **UNIVESP**, after Electrical Engineering at **UNICAMP**
-- 🔭 &nbsp; Currently building [`harness`](https://github.com/paulop2/harness), an autonomous dev harness (delivery queue + goal loop) for coding agents
 - 📫 &nbsp; **Open to new opportunities**, so feel free to reach out!
 - 📚 &nbsp; Off the keyboard: fantasy novels and ARPGs like Path of Exile
 
